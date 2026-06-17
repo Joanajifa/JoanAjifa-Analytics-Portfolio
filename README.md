@@ -75,4 +75,4 @@ www.linkedin.com/in/joan-usman-a8a461273
 joanajifa@gmail.com
 
 📄 **Resume:**  
-https://drive.google.com/file/d/1OUHeiBm8EXtaiYkWg6DYE9wm8KyK2bBq/view?usp=sharing
+https://drive.google.com/file/d/1temFn0ySi8Fmq5b--n-WRNUVgWY6-IEd/view?usp=sharing
