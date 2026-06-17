@@ -22,7 +22,10 @@ I am an aspiring Data Analyst with a passion for transforming raw data into mean
 - Microsoft Excel
 - SQL
 - Power BI
+- Google Sheet
 - Git & GitHub
+- Power Automate
+- Sharepoint
 
 ### 📊 Data Visualization
 - Interactive Dashboards
