@@ -62,7 +62,6 @@ https://github.com/Joanajifa/Human-Resource-Analytics-Dashboard
 - Google Data Analytics Professional Certificate
 - Advanced SQL for Data Analysis
 - Data Modeling and DAX
-- Power BI Dashboard Development
 
 ---
 
