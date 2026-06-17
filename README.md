@@ -39,20 +39,16 @@ I am an aspiring Data Analyst with a passion for transforming raw data into mean
 
 
 ## Certifications
-- Add your certifications here
+- Data Essentials Certificate, Coursera
+- SQL for Data Analysis, Udacity
 
 ## Currently Learning
-- Advanced SQL
-- Power BI
-- DAX
-- Data Modeling
+- Google Data Analytics Professional Certificate
+- Advanced SQL for Data Analysis
+- Data Modeling and DAX
 
-## Get in Touch and Connect
 
-- LinkedIn: Your LinkedIn URL
-- GitHub: Your GitHub URL
-- Email: Your Email Address
-## Get in Touch and Connect 
+## Get in Touch With Me
 - 🔗 LinkedIn: www.linkedin.com/in/joan-usman-a8a461273
 - 📧 Email: joanajifa@gmail.com
 - 📋 Resume: https://drive.google.com/file/d/1OUHeiBm8EXtaiYkWg6DYE9wm8KyK2bBq/view?usp=sharing
