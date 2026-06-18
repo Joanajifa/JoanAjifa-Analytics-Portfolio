@@ -38,7 +38,6 @@ I am an aspiring Data Analyst with a passion for transforming raw data into mean
 ## 🚀 Featured Projects
 
 ### Human Resource Analytics Dashboard - EXCEL
-
  🔗 **Project Link:**  
 https://github.com/Joanajifa/Human-Resource-Analytics-Dashboard
 
@@ -49,7 +48,6 @@ https://github.com/Joanajifa/Human-Resource-Analytics-Dashboard
 **Tools Used:** Excel, Pivot Tables, Pivot Charts, KPI Cards, Slicers, Conditional Formatting
 
 ### Chocolate Sales Analysis Project - SQL
-
  🔗 **Project Link:**  
 https://github.com/Joanajifa/Chocolate-Sales-Analysis-Project-SQL-
 
