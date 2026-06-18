@@ -50,7 +50,7 @@ https://github.com/Joanajifa/Human-Resource-Analytics-Dashboard
 ### 🍫 Chocolate Sales Analysis (SQL)
 
 🔗 **Project Link:**  
-https://github.com/Joanajifa/Chocolate-Sales-Analysis-Project-SQL
+https://github.com/Joanajifa/Chocolate-Sales-Analysis-Project-SQL-
 
 - Conducted end-to-end SQL analysis on 1 million chocolate sales records using Microsoft SQL Server Management Studio (SSMS).
 - Analyzed customer behavior, product performance, store performance, revenue, and profitability metrics.
