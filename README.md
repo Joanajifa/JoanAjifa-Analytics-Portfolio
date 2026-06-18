@@ -35,19 +35,29 @@ I am an aspiring Data Analyst with a passion for transforming raw data into mean
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### Human Resource Analytics Dashboard
+### Human Resource Analytics Dashboard - EXCEL
+
+ 🔗 **Project Link:**  
+https://github.com/Joanajifa/Human-Resource-Analytics-Dashboard
 
 - Built an interactive HR dashboard in Microsoft Excel.
 - Analyzed workforce demographics, employee performance, engagement, and training metrics.
 - Created KPI Cards, Pivot Tables, Pivot Charts, and Slicers.
 
-🔗 **Project Link:**  
-https://github.com/Joanajifa/Human-Resource-Analytics-Dashboard
-
 **Tools Used:** Excel, Pivot Tables, Pivot Charts, KPI Cards, Slicers, Conditional Formatting
 
+### Chocolate Sales Analysis Project - SQL
+
+ 🔗 **Project Link:**  
+https://github.com/Joanajifa/Chocolate-Sales-Analysis-Project-SQL-
+
+- Built an interactive HR dashboard in Microsoft Excel.
+- Analyzed workforce demographics, employee performance, engagement, and training metrics.
+- Created KPI Cards, Pivot Tables, Pivot Charts, and Slicers.
+
+**Tools Used:** Excel, Pivot Tables, Pivot Charts, KPI Cards, Slicers, Conditional Formatting
 ---
 
 ## 🎓 Certifications
