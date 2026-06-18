@@ -59,6 +59,7 @@ https://github.com/Joanajifa/Chocolate-Sales-Analysis-Project-SQL
 - Generated actionable business insights to support data-driven decision-making.
 
 **Tools Used:** SQL Server, SQL (T-SQL), SSMS, CSV Files, GitHub
+
 ---
 
 ## 🎓 Certifications
