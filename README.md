@@ -22,10 +22,10 @@ I am an aspiring Data Analyst with a passion for transforming raw data into mean
 - Microsoft Excel
 - SQL
 - Power BI
-- Google Sheet
+- Google Sheets
 - Git & GitHub
 - Power Automate
-- Sharepoint
+- SharePoint
 
 ### 📊 Data Visualization
 - Interactive Dashboards
@@ -37,7 +37,7 @@ I am an aspiring Data Analyst with a passion for transforming raw data into mean
 
 ## 🚀 Featured Projects
 
-### Human Resource Analytics Dashboard - EXCEL
+### 👥 Human Resource Analytics Dashboard (Excel)
  🔗 **Project Link:**  
 https://github.com/Joanajifa/Human-Resource-Analytics-Dashboard
 
@@ -47,15 +47,18 @@ https://github.com/Joanajifa/Human-Resource-Analytics-Dashboard
 
 **Tools Used:** Excel, Pivot Tables, Pivot Charts, KPI Cards, Slicers, Conditional Formatting
 
-### Chocolate Sales Analysis Project - SQL
- 🔗 **Project Link:**  
-https://github.com/Joanajifa/Chocolate-Sales-Analysis-Project-SQL-
+### 🍫 Chocolate Sales Analysis (SQL)
 
-- Built an interactive HR dashboard in Microsoft Excel.
-- Analyzed workforce demographics, employee performance, engagement, and training metrics.
-- Created KPI Cards, Pivot Tables, Pivot Charts, and Slicers.
+🔗 **Project Link:**  
+https://github.com/Joanajifa/Chocolate-Sales-Analysis-Project-SQL
 
-**Tools Used:** Excel, Pivot Tables, Pivot Charts, KPI Cards, Slicers, Conditional Formatting
+- Conducted end-to-end SQL analysis on 1 million chocolate sales records using Microsoft SQL Server Management Studio (SSMS).
+- Analyzed customer behavior, product performance, store performance, revenue, and profitability metrics.
+- Utilized SQL concepts including Joins, Aggregate Functions, Subqueries, GROUP BY, HAVING, and TOP for business analysis.
+- Identified top-performing brands, revenue-generating countries, best-selling products, and customer loyalty trends.
+- Generated actionable business insights to support data-driven decision-making.
+
+**Tools Used:** SQL Server, SQL (T-SQL), SSMS, CSV Files, GitHub
 ---
 
 ## 🎓 Certifications
