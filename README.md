@@ -6,7 +6,7 @@
 
 ## 👩‍💻 About Me
 
-I am an aspiring Data Analyst with a passion for transforming raw data into meaningful business solutions. I specialize in data cleaning, analysis, dashboard development, and data visualization using Excel, SQL, and Power BI. My goal is to help organizations understand their data, improve reporting processes, and support informed decision-making.
+I am a Data Analyst with a passion for transforming raw data into meaningful business solutions. I specialize in data cleaning, analysis, dashboard development, and data visualization using Excel, SQL, and Power BI. My goal is to help organizations understand their data, improve reporting processes, and support informed decision-making.
 
 ---
 
